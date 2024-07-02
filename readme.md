@@ -1,1 +1,3 @@
-<p align="center"><a href=""><img width="80%" alt="Hello, I'm Sadi Muhammad Tanzim A software Enhineer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">Hello, I am Sadi Muhammad Tanzim</p>
+<p align="center">A Software Engineer</p>
+
