@@ -1,8 +1,6 @@
-<img src="https://i.ibb.co/6y78YDv/development-with-abstract-background.jpg" />
+<img src="https://i.ibb.co/r3mM79W/Screenshot-2024-07-02-100535.png" />
 
-<p align="center">Hello</p>
-<p align="center">I am Sadi Muhammad Tanzim</p>
-<p align="center">A software Engineer</p>
+
 
 **About me**
 
