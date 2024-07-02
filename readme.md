@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg](https://i.ibb.co/m9z0SZh/development-with-abstract-background.jpg)" />
+<img src="https://i.ibb.co/m9z0SZh/development-with-abstract-background.jpg" />
 
 <p align="center">Hello</p>
 <p align="center">I am Sadi Muhammad Tanzim</p>
