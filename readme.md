@@ -4,19 +4,25 @@
 
 **About me**
 
-- 💼 Software Engineer at [Neural Semiconductor Limited]([http://razorpay.com/](https://www.neural-semiconductor.com/))
+- Software Engineer at [Neural Semiconductor Limited]([http://razorpay.com/](https://www.neural-semiconductor.com/))
 
-- ❤️ I love writing JavaScript, React JS and building fun experiments on type-level
+- 3+ years of professional experience in software development
+- Top contributor in my office on the HRMS project
+- Worked on Asset Management System
+- Currently building a full-scale ERP system
 
 
-**Technologies That I Use**
+**Frontend Expertise on**
+- React
+- Next
+- TypeScript
+- Tailwind CSS
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-</br>
-</br>
+**Have Interests on**
+- Backend development with Node.js & Express
+- Mobile app development using React Native
+
 </br>
 
 <p align="center">
