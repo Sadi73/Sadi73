@@ -23,3 +23,8 @@
 - Backend development with Node.js & Express
 - Mobile app development using React Native
 
+
+**A Quick Note About My GitHub**
+
+While GitHub showcases some of my personal and open-source work, most of my professional contributions are made in private GitLab repositories and enterprise applications. As a result, my GitHub activity is not a complete representation of my experience, project impact, or code contributions.
+
